@@ -1,19 +1,19 @@
-###Python Flask Web application for Ecommerce with MongoDB
+## Python Flask Web application for Ecommerce with MongoDB
 
 ##### Instructions 
-Download python from https://www.python.org/downloads/
+1. Download python from https://www.python.org/downloads/
 
-Download MongoDB from https://www.mongodb.com/download-center#community
+2. Download MongoDB from https://www.mongodb.com/download-center#community
 
-Install necessary packages from requirements.txt by running `pip install -r requirements.txt`
+3. Install necessary packages from requirements.txt by running `pip install -r requirements.txt`
 
-Before running the mongodb instance, we must create a data folder and run below command in command prompt.
+4. Before running the mongodb instance, we must create a data folder and run below command in command prompt.
 
-"C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe" --dbpath="C:\mongo-data"
+5. "C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe" --dbpath="C:\mongo-data"
 
-Here C:\mongo-data folder is used for saving mongodb files.
+6. Here C:\mongo-data folder is used for saving mongodb files.
 
-By default, it is listening the port 27017.
+7. By default, it is listening the port 27017.
 
 ##### Download/Clone source code from Github
 
